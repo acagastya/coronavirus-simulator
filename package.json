@@ -1,0 +1,13 @@
+{
+  "name": "corona",
+  "version": "1.0.0",
+  "description": "Simulating Coronavirus spread",
+  "main": "index.js",
+  "author": "Agastya",
+  "license": "BSD-3-Clause",
+  "private": false,
+  "dependencies": {
+    "matter-js": "^0.14.2",
+    "p5": "^1.0.0"
+  }
+}
